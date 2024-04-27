@@ -1,8 +1,7 @@
 # salonDB
 this dev branch in this repo is under the term of learning relational database course in freeCodeCamp.
-# Salon Appointment Scheduler
 
-## This is one of the required projects to earn my freeCodeCamp 'Relational Database Certification
+## This is one of the required projects to earn my freeCodeCamp 'Relational Database Certification'.
 
 ### For this project, I had to create an interactive Bash program that uses PostgreSQL to track the customers and appointments of a salon.
 
